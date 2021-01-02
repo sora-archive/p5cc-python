@@ -10,3 +10,8 @@ Install required modules:
 And then run it!
 
 `python3 p5cc.py <filePathToSave> <message>`
+
+# License
+Please refer to [this](https://skyventuree.github.io/tools/p5cc/copyright.html).
+
+Please contact me if you have license problem and I'll get in touch with you ASAP.
