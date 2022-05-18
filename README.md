@@ -1,17 +1,19 @@
-Persona 5 Calling Card Maker, now open source.
+Persona 5 Calling Card Maker Legacy version.
 
-You can try this without having to download the program at [my website](https://skyventuree.github.io/tools/p5cc).
+You should try out version 3, rewritten version of this tool at [this website](https://skyventuree.github.io/p5cc).
 
 # Installation
-Install required modules:
+
+Still like having Earwig for your card? Follow these step:
+
+0. Download and install Python 3 from python.org and make sure you have added Python to **PATH**.
+1. Grab yourself the source code
+2. Install required modules:
 
 `pip3 install -r requirements.txt`
 
-And then run it!
+3. And then run it!
 
 `python3 p5cc.py <filePathToSave> <message>`
 
-# License
-Please refer to [this](https://skyventuree.github.io/tools/p5cc/copyright.html).
-
-Please contact me if you have license problem and I'll get in touch with you ASAP.
+Example: `python3 p5cc.py card.png Take Your Heart`
